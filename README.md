@@ -18,7 +18,7 @@ This extension only works on Chromium-based browsers.
 4. Enable **Developer Mode**.
 5. Choose **Load unpacked**, and then choose the folder you got after step 2.
 
-All steps above are one-time processes. After that, you need to start your browser at least once per day to claim HoYoLAB Daily Check-in rewards.
+All steps above are one-time processes. After that, you just need to start your browser at least once per day. This extension will claim HoYoLAB Daily Check-in rewards automatically.
 
 This extension is **not** be synced to your Google account. If you want to use this extension on another Chrome user or browser, you'll need to do each step manually again. In addition, you need to stay signed in to HoYoLAB by signing in at least once per year.
 
