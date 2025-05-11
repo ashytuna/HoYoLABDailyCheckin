@@ -10,8 +10,6 @@ This extension only works on Chromium-based browsers.
 
 ## How to Use
 
-**TL;DR:** load this repository as an unpacked extension.
-
 1. **Sign in to [HoYoLAB](https://www.hoyolab.com/)** if you haven't done so on this browser within a year.
 2. **Clone** this repository, or download ZIP and then extract it.
 3. On your browser, go to **Manage extensions** at `chrome://extensions/`.
