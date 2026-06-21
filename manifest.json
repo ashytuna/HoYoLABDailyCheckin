@@ -14,9 +14,9 @@
     "service_worker": "background.js"
   },
   "icons": {
-    "16": "asset/img/favicon.ico",
-    "48": "asset/img/favicon.ico",
-    "128": "asset/img/favicon.ico"
+    "16": "asset/img/icon16.png",
+    "48": "asset/img/icon48.png",
+    "128": "asset/img/icon128.png"
   },
   "manifest_version": 3
 }
